@@ -1,4 +1,3 @@
-
 var phone = "+380502283221";
 let len = phone.length;
 
